@@ -105,7 +105,7 @@ The system follows a **two-application architecture**:
 
 ---
 
-## 🛡️ Advanced Permissions & Security (Technical)
+## 🛡️ Advanced Permissions & Security
 
 The **Child App** operates using system-level permissions to ensure reliability and prevent misuse.
 
@@ -199,12 +199,12 @@ The **Child App** operates using system-level permissions to ensure reliability 
 
 ---
 
-## 📦 Demo APKs (Optional)
+## 📦 App's APKs
 
 > APKs are stored in the **apks/** directory
 
-- Parent App (Android)
-- Child App (Android)
+- Parent App (Android) // Available Soon
+- Child App (Android) // Available Soon
 
 *(Demo builds only – not production)*
 
@@ -216,7 +216,10 @@ This repository is for **portfolio and showcase purposes only**.
 Source code and internal logic are private due to client confidentiality.
 
 ---
-
 ## 📬 Contact
 
-For project discussions, technical collaboration, or similar solutions, feel free to connect with me on LinkedIn.
+If you’re interested in this project and would like access to the APKs, source code, or a detailed walkthrough of how the system is designed and works, feel free to reach out. I’m also open to discussions around building similar solutions or customizing this project for your needs.  
+**Amit Bhoudler**  
+🌐 Portfolio: https://amitbodaliya.com  
+📧 Email: amitbodaliya.com  
+🔗 LinkedIn: https://www.linkedin.com/in/amitbodaliya/
