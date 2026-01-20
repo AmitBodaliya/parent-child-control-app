@@ -161,16 +161,23 @@ The **Child App** operates using system-level permissions to ensure reliability 
 
 > Screenshots stored inside the **screenshots/** directory
 
+
+> Parent App
+
 <p align="center"> 
   <img src="screenshots/login_otp.png" width="250" alt="App Login"/> 
   <img src="screenshots/parent_dashboard.png" width="250" alt="Parent Dashboard"/> 
   <img src="screenshots/child_dashboard.png" width="250" alt="Child Dashboard"/>
 </p>
+
 <p align="center">
   <img src="screenshots/location_tracking.png" width="250" alt="Live Location Tracking"/> 
   <img src="screenshots/app_usage.png" width="250" alt="App Usage Monitoring"/>
   <img src="screenshots/emergency_alert.png" width="250" alt="Emergency Alert"/>
 </p>
+
+
+> Child App
 
 <p align="center">
   <img src="screenshots/child_lock.png" width="250" alt="Child Lock"/> 
