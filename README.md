@@ -219,7 +219,7 @@ Source code and internal logic are private due to client confidentiality.
 ## 📬 Contact
 
 If you’re interested in this project and would like access to the APKs, source code, or a detailed walkthrough of how the system is designed and works, feel free to reach out. I’m also open to discussions around building similar solutions or customizing this project for your needs.  
-**Amit Bhoudler**  
+**Amit Bodaliya**  
 🌐 Portfolio: https://amitbodaliya.com  
 📧 Email: amitbodaliyadev@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/amitbodaliya/
